@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH", None)
 OWNER_USERNAME = getenv("OWNER_USERNAME", "@Cute_girl_20")
 
 #❖  Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "AvishaxBot")
+BOT_USERNAME = getenv("BOT_USERNAME", "@MISS_SNEHABOT")
 
 #❖  Don't Add style font 
 BOT_NAME = getenv("BOT_NAME", "˹𝙎𝙉𝙀𝙃𝘼 ꭙ 𝙈𝙐𝙎𝙄𝘾 ˼ ♪")
 
 #❖ get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME", "AVISHA_ASS")
+ASSUSERNAME = getenv("ASSUSERNAME", "@MISS_SNEHA143")
 
 #❖ Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
